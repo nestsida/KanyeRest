@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ts4jcWC4+AfpK4MEhWbY3BY1rFnjFeHbhq5UtA4WgMOvBMB+Ioc60E93kDqWVI3Qfp2a6Jr72pKhSkpGqZWaKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gsida\\Desktop\\Repo\\KanyeREST\\KanyeREST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gsida\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
